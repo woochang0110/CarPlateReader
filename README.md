@@ -12,6 +12,16 @@
 ## Prerequisite
 
 [환경설정 방법](https://program-developers-story.tistory.com/68)<br><br>
+
+## Input
+
+![Input](./car_plate.png)
+
+
+
 ## Output
 
 ![Output](./detected_plate.png)
+
+OCR 변환 후 "67구9858"
+
