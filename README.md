@@ -11,7 +11,7 @@
 
 ## Prerequisite
 
-[![환경설정 방법](https://program-developers-story.tistory.com/68)]<br><br>
+[환경설정 방법](https://program-developers-story.tistory.com/68)<br><br>
 ## Output
 
 [![Output](./detected_plate.png)]
