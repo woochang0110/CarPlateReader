@@ -15,7 +15,7 @@
 
 ## Input
 
-![Input](./car_plate.png)
+![Input](./car_plate.jpg)
 
 
 
