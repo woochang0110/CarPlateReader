@@ -25,3 +25,8 @@
 
 OCR 변환 후 "67구9858"
 
+
+## Demo Vedio
+
+아래 사진을 누르면 데모 영상 링크로 이동합니다.
+[![Youtube](./youtube_thumbnail.png)](https://youtu.be/7xuHN38yGcE)<br>
