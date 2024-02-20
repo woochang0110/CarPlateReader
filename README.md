@@ -23,7 +23,12 @@
 
 ![Output](./detected_plate.png)
 
-OCR 변환 후 "67구9858"
+
+OCR 변환 후 "67구9858"<br>
+
+![OCR Output](./execute_result.png)
+
+
 
 
 ## Demo Vedio
